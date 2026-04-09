@@ -10,13 +10,3 @@ Este es un proyecto de práctica desarrollado para dominar la gestión de estado
 * **Enrutado:** [React Router DOM v6](https://reactrouter.com/) para la navegación SPA.
 * **UI & Notificaciones:** [SweetAlert2](https://sweetalert2.github.io/) para una experiencia de usuario interactiva y elegante.
 
-## 🛠️ Estructura del Proyecto (Sugerida)
-
-```text
-src/
-├── api/            # Configuración de instancias de Axios
-├── app/            # Configuración del Store de Redux
-├── features/       # Slices de Redux y lógica por módulos (clientes)
-├── components/     # Componentes reutilizables (Botones, Formularios)
-├── pages/          # Vistas principales de la aplicación
-└── hooks/          # Hooks personalizados para lógica compartida
